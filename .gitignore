@@ -1,0 +1,6 @@
+# Sys/Dev
+.idea
+.DS_Store
+
+# Temp
+tmp
