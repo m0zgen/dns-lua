@@ -18,7 +18,15 @@ names = {
 
 -- --
 
-local file_path = "/etc/dnsdist/dns-lua/lists/allowlist.txt" -- # path to list
+function script_path()
+   local str = debug.getinfo(2, "S").source:sub(2)
+   return str:match("(.*/)")
+end
+
+local script_path = script_path()
+
+-- local file_path = "/etc/dnsdist/dns-lua/lists/allowlist.txt" -- # path to list
+local file_path = script_path .. "lists/allowlist.txt" 
 local pattern = "#" -- # except pattern from list
 local matches = {}
 
@@ -28,8 +36,21 @@ end
 
 for line in io.lines(file_path) do
   if not contains(line, pattern) then
-    -- table.insert(matches, line)
-    addAction(RegexRule(line), PoolAction("public"))
+
+    if contains(line, "yandex") then
+      -- print( "Yandex: " .. line )
+      addAction(RegexRule(line), PoolAction("public-yad"))
+
+    elseif contains(line, "google") then
+      -- print( "Google: " .. line )
+      addAction(RegexRule(line), PoolAction("public"))
+
+    else
+      -- print( "Another:" .. line)
+      -- table.insert(matches, line)
+      addAction(RegexRule(line), PoolAction("public"))
+    end
+
   end
 end
 
