@@ -67,20 +67,7 @@ local matches = {}
 for line in io.lines(file_path) do
   if not contains(line, pattern) then
 
-    if contains(line, "yandex") then
-      -- print( "Yandex: " .. line )
-      -- addAction(RegexRule(line), PoolAction("public-yad"))
-      -- addAction(RE2Rule(line), PoolAction("public-yad"))
-      setRuleType(regex_status, line, "public-yad")
-
-    elseif contains(line, "google") then
-      -- print( "Google: " .. line )
-      setRuleType(regex_status, line, "public")
-
-    else
-      -- print( "Another:" .. line)
-      setRuleType(regex_status, line, "public")
-    end
+    setRuleType(regex_status, line, "public")
 
   end
 end
