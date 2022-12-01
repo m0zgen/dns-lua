@@ -19,7 +19,7 @@ names = {
 -- --
 
 -- Functions
-function script_path()
+local function script_path()
    local str = debug.getinfo(2, "S").source:sub(2)
    return str:match("(.*/)")
 end
@@ -28,8 +28,30 @@ local function contains(str, pattern)
   return string.match(str, pattern) and true or false
 end
 
+local function getRE2()
+  local handle = io.popen("dnsdist --version")
+  local result = handle:read("*a")
+  handle:close()
+
+  if contains(result, "re2") then
+      -- print( "RE2 Exists...")
+      return true
+    else
+      return false
+  end
+end
+
+function setRuleType(type, line, action)
+  if type then
+    addAction(RE2Rule(line), PoolAction(action))
+  else
+    addAction(RegexRule(line), PoolAction(action))
+  end
+end
+
 -- Vars
 local script_path = script_path()
+local regex_status = getRE2()
 
 -- local file_path = "/etc/dnsdist/dns-lua/lists/allowlist.txt" -- # path to list
 local file_path = script_path .. "lists/allowlist.txt" 
@@ -47,16 +69,17 @@ for line in io.lines(file_path) do
 
     if contains(line, "yandex") then
       -- print( "Yandex: " .. line )
-      addAction(RegexRule(line), PoolAction("public-yad"))
+      -- addAction(RegexRule(line), PoolAction("public-yad"))
+      -- addAction(RE2Rule(line), PoolAction("public-yad"))
+      setRuleType(regex_status, line, "public-yad")
 
     elseif contains(line, "google") then
       -- print( "Google: " .. line )
-      addAction(RegexRule(line), PoolAction("public"))
+      setRuleType(regex_status, line, "public")
 
     else
       -- print( "Another:" .. line)
-      -- table.insert(matches, line)
-      addAction(RegexRule(line), PoolAction("public"))
+      setRuleType(regex_status, line, "public")
     end
 
   end
