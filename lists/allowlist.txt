@@ -4,6 +4,9 @@
 ^[0-9]{1,}.android.pool.ntp.org$
 (^|^.*\.)yandex.(ru|com|net)$
 (^|^.*\.)facebook.com$
+(^|^.*\.)instagram.com$
+(^|^.*\.)linkedin.com$
+(^|^.*\.)tiktok.com$
 (^|^[a-z]{2,}\.|.*\.clients[1-9]\.|^clients[1-9]\.|.*\.l\.)google.com$
 (^|^[a-z]{2,}\.)googleadservices.com$
 (^|^.*\.)gstatic.com$
