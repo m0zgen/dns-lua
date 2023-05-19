@@ -4,6 +4,7 @@
 ^[0-9]{1,}.android.pool.ntp.org$
 (^|^.*\.)yandex.(ru|com|net)$
 (^|^.*\.)pikabu.ru$
+(^|^.*\.)cloudflare.com$
 (^|^.*\.)google.com$
 (^|^.*\.)facebook.com$
 (^|^.*\.)instagram.com$
@@ -11,6 +12,7 @@
 (^|^.*\.)azure.com$
 (^|^.*\.)microsoft.com$
 (^|^.*\.)office.com$
+(^|^.*\.)powerbi.com$
 (^|^.*\.)tiktok.com$
 (^|^.*\.)twitter.com$
 (^|^[a-z]{2,}\.|.*\.clients[1-9]\.|^clients[1-9]\.|.*\.l\.)google.com$
