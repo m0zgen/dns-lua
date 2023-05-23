@@ -1,11 +1,5 @@
 # \\. Open BLD DNS LUA pool forwarder
-[a-z]{1,}.root-servers.net$
-(^|^[a-z]{2,}.|[1-10]{1,}\.)pool.ntp.org$
-^[0-9]{1,}.android.pool.ntp.org$
-(^|^.*\.)yandex.(ru|com|net)$
-(^|^.*\.)pikabu.ru$
 (^|^.*\.)cloudflare.com$
-(^|^.*\.)google.com$
 (^|^.*\.)facebook.com$
 (^|^.*\.)instagram.com$
 (^|^.*\.)linkedin.com$
@@ -13,11 +7,20 @@
 (^|^.*\.)microsoft.com$
 (^|^.*\.)office.com$
 (^|^.*\.)powerbi.com$
+(^|^.*\.)pikabu.ru$
+(^|^.*\.)qualtrics.com$
 (^|^.*\.)tiktok.com$
 (^|^.*\.)twitter.com$
-(^|^[a-z]{2,}\.|.*\.clients[1-9]\.|^clients[1-9]\.|.*\.l\.)google.com$
-(^|^[a-z]{2,}\.)googleadservices.com$
+(^|^.*\.)telegram.org$
+(^|^.*\.)t.me$
+(^|^.*\.)whatsapp.com$
+(^|^.*\.)yandex.(ru|com|net)$
+(^|^.*\.)google.com$
 (^|^.*\.)gstatic.com$
-(^|^.*\.)qualtrics.com$
 (^|^.*\.)openbld.net$
 (^|^.*\.)sys-adm.in$
+(^|^[a-z]{2,}\.|.*\.clients[1-9]\.|^clients[1-9]\.|.*\.l\.)google.com$
+(^|^[a-z]{2,}\.)googleadservices.com$
+[a-z]{1,}.root-servers.net$
+(^|^[a-z]{2,}.|[1-10]{1,}\.)pool.ntp.org$
+^[0-9]{1,}.android.pool.ntp.org$
