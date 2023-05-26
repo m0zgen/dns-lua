@@ -14,7 +14,7 @@
 (^|^.*\.)telegram.org$
 (^|^.*\.)t.me$
 (^|^.*\.)whatsapp.com$
-(^|^.*\.)avito.ru$
+(^|^.*\.)avito.(ru|st)$
 (^|^.*\.)yandex.(ru|com|net)$
 (^|^.*\.)google.com$
 (^|^.*\.)gstatic.com$
