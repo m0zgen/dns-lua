@@ -11,6 +11,7 @@
 (^|^.*\.)qualtrics.com$
 (^|^.*\.)tiktok.com$
 (^|^.*\.)tiktokv.com$
+(^|^.*\.)ttwstatic.com$
 (^|^.*\.)byteoversea.com$
 (^|^.*\.)twitter.com$
 (^|^.*\.)telegram.org$
