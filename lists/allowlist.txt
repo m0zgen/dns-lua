@@ -10,6 +10,8 @@
 (^|^.*\.)pikabu.ru$
 (^|^.*\.)qualtrics.com$
 (^|^.*\.)tiktok.com$
+(^|^.*\.)tiktokv.com$
+(^|^.*\.)byteoversea.com$
 (^|^.*\.)twitter.com$
 (^|^.*\.)telegram.org$
 (^|^.*\.)t.me$
