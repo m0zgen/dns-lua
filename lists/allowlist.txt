@@ -1,6 +1,6 @@
 # \\. Open BLD DNS LUA pool forwarder
 (^|^.*\.)cloudflare.com$
-(^|^.*\.)facebook.com$
+(^|^.*\.)facebook.(com|net)$
 (^|^.*\.)instagram.com$
 (^|^.*\.)linkedin.com$
 (^|^.*\.)azure.com$
