@@ -9,10 +9,7 @@
 (^|^.*\.)powerbi.com$
 (^|^.*\.)pikabu.ru$
 (^|^.*\.)qualtrics.com$
-(^|^.*\.)tiktok.com$
-(^|^.*\.)tiktokv.com$
-(^|^.*\.)ttwstatic.com$
-(^|^.*\.)byteoversea.com$
+(^|^.*\.)(tiktok|tiktokv|ttwstatic|byteoversea).(com)$
 (^|^.*\.)twitter.com$
 (^|^.*\.)telegram.org$
 (^|^.*\.)t.me$
