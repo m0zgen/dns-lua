@@ -3,6 +3,7 @@
 (^|^.*\.)(tiktok|tiktokv|ttwstatic|byteoversea)\.(com)$
 (^|^.*\.)askubuntu\.com$
 (^|^.*\.)avito\.(ru|st)$
+(^|^.*\.)apple\.com$
 (^|^.*\.)azure\.com$
 (^|^.*\.)bing\.com$
 (^|^.*\.)cloudflare\.com$
