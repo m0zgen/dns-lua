@@ -18,6 +18,7 @@
 (^|^.*\.)pikabu\.ru$
 (^|^.*\.)powerbi\.com$
 (^|^.*\.)qualtrics\.com$
+(^|^.*\.)quora\.com$
 (^|^.*\.)qwant\.com$
 (^|^.*\.)stackexchange\.com$
 (^|^.*\.)stackoverflow\.com$
