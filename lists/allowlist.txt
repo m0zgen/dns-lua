@@ -15,6 +15,7 @@
 (^|^.*\.)microsoft\.com$
 (^|^.*\.)office\.com$
 (^|^.*\.)openbld\.net$
+(^|^.*\.)paypal\.ru$
 (^|^.*\.)pikabu\.ru$
 (^|^.*\.)powerbi\.com$
 (^|^.*\.)qualtrics\.com$
@@ -23,6 +24,7 @@
 (^|^.*\.)reddit\.com$
 (^|^.*\.)stackexchange\.com$
 (^|^.*\.)stackoverflow\.com$
+(^|^.*\.)stripes\.com$
 (^|^.*\.)sys-adm\.in$
 (^|^.*\.)t\.me$
 (^|^.*\.)telegram\.org$
