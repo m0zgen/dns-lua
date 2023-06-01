@@ -18,6 +18,7 @@
 (^|^.*\.)avito\.(ru|st)$
 (^|^.*\.)yandex\.(ru|com|net)$
 (^|^.*\.)google\.com$
+(^|^.*\.)gmail\.com$
 (^|^.*\.)gstatic\.com$
 (^|^.*\.)openbld\.net$
 (^|^.*\.)sys-adm\.in$
