@@ -20,6 +20,7 @@
 (^|^.*\.)qualtrics\.com$
 (^|^.*\.)quora\.com$
 (^|^.*\.)qwant\.com$
+(^|^.*\.)reddit\.com$
 (^|^.*\.)stackexchange\.com$
 (^|^.*\.)stackoverflow\.com$
 (^|^.*\.)sys-adm\.in$
