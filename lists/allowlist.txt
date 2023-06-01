@@ -17,6 +17,9 @@
 (^|^.*\.)pikabu\.ru$
 (^|^.*\.)powerbi\.com$
 (^|^.*\.)qualtrics\.com$
+(^|^.*\.)qwant\.com$
+(^|^.*\.)stackexchange\.com$
+(^|^.*\.)stackoverflow\.com$
 (^|^.*\.)sys-adm\.in$
 (^|^.*\.)t\.me$
 (^|^.*\.)telegram\.org$
