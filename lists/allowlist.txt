@@ -7,6 +7,7 @@
 (^|^.*\.)azure\.com$
 (^|^.*\.)bing\.com$
 (^|^.*\.)cloudflare\.com$
+(^|^.*\.)digitalocean\.com$
 (^|^.*\.)facebook\.(com|net)$
 (^|^.*\.)gmail\.com$
 (^|^.*\.)google\.com$
@@ -15,6 +16,7 @@
 (^|^.*\.)netdata\.cloud$
 (^|^.*\.)microsoft\.com$
 (^|^.*\.)office\.com$
+(^|^.*\.)office365\.com$
 (^|^.*\.)openbld\.net$
 (^|^.*\.)paypal\.ru$
 (^|^.*\.)pikabu\.ru$
