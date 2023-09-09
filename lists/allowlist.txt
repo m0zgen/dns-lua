@@ -11,6 +11,7 @@
 (^|^.*\.)facebook\.(com|net)$
 (^|^.*\.)gmail\.com$
 (^|^.*\.)google\.com$
+(^|^.*\.)googleusercontent\.com$
 (^|^.*\.)gstatic\.com$
 (^|^.*\.)instagram\.com$
 (^|^.*\.)netdata\.cloud$
