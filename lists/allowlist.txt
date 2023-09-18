@@ -14,6 +14,7 @@
 (^|^.*\.)googleusercontent\.com$
 (^|^.*\.)gstatic\.com$
 (^|^.*\.)instagram\.com$
+(^|^.*\.)ivi\.tv$
 (^|^.*\.)netdata\.cloud$
 (^|^.*\.)microsoft\.com$
 (^|^.*\.)office\.com$
@@ -30,6 +31,7 @@
 (^|^.*\.)stackoverflow\.com$
 (^|^.*\.)stripes\.com$
 (^|^.*\.)sys-adm\.in$
+(^|^.*\.)sysconf\.io$
 (^|^.*\.)t\.me$
 (^|^.*\.)telegram\.org$
 (^|^.*\.)tumblr\.com$
