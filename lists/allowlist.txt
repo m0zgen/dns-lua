@@ -26,6 +26,8 @@
 (^|^.*\.)qualtrics\.com$
 (^|^.*\.)quora\.com$
 (^|^.*\.)qwant\.com$
+(^|^.*\.)raiffeisen\.(ru|ua)$
+(^|^.*\.)rbinternational\.com$
 (^|^.*\.)reddit\.com$
 (^|^.*\.)stackexchange\.com$
 (^|^.*\.)stackoverflow\.com$
