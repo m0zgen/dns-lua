@@ -23,6 +23,7 @@
 (^|^.*\.)paypal\.ru$
 (^|^.*\.)pikabu\.ru$
 (^|^.*\.)powerbi\.com$
+(^|^.*\.)powerdmarc\.com$
 (^|^.*\.)qualtrics\.com$
 (^|^.*\.)quora\.com$
 (^|^.*\.)qwant\.com$
