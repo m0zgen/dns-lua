@@ -39,7 +39,7 @@
 (^|^.*\.)telegram\.org$
 (^|^.*\.)tumblr\.com$
 (^|^.*\.)twitter\.com$
-(^|^.*\.)vdsina\.ru$
+(^|^.*\.)vdsina\.(ru|com)$
 (^|^.*\.)whatsapp\.com$
 (^|^.*\.)yahoo.com\.com$
 (^|^.*\.)yandex\.(ru|com|net)$
