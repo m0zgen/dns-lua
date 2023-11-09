@@ -1,6 +1,6 @@
 # \\. Open BLD DNS LUA pool forwarder
 (^|^.*\.)(linkedin|licdn.com)\.com$
-(^|^.*\.)(tiktok|tiktokv|ttwstatic|byteoversea)\.(com)$
+(^|^.*\.)(tiktok|tiktokv|ttwstatic|tiktokcdn|byteoversea)\.(com)$
 (^|^.*\.)askubuntu\.com$
 (^|^.*\.)avito\.(ru|st)$
 (^|^.*\.)apple\.com$
