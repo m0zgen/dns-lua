@@ -15,6 +15,7 @@
 (^|^.*\.)gstatic\.com$
 (^|^.*\.)instagram\.com$
 (^|^.*\.)ivi\.(ru|tv)$
+(^|^.*\.)cdnvideo\.(ru)$
 (^|^.*\.)netdata\.cloud$
 (^|^.*\.)microsoft\.com$
 (^|^.*\.)office\.com$
