@@ -17,7 +17,7 @@
 (^|^.*\.)ebay\.com$
 (^|^.*\.)facebook\.(com|net)$
 (^|^.*\.)gmail\.com$
-(^|^.*\.)google\.(com|net)$
+(^|^.*\.)google\.(com|net|kz|de|lv)$
 (^|^.*\.)googleusercontent\.com$
 (^|^.*\.)gstatic\.com$
 (^|^.*\.)ikea\.com$
