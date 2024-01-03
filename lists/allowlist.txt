@@ -27,7 +27,6 @@
 (^|^.*\.)google\.(com|net|kz|de|lv)$
 (^|^.*\.)googleusercontent\.com$
 (^|^.*\.)gstatic\.com$
-(^|^.*\.)ikea\.com$
 (^|^.*\.)instagram\.com$
 (^|^.*\.)instructure.com$
 (^|^.*\.)investing.com$
@@ -51,7 +50,6 @@
 (^|^.*\.)playstation.com$
 (^|^.*\.)powerbi\.com$
 (^|^.*\.)powerdmarc\.com$
-(^|^.*\.)qualtrics\.com$
 (^|^.*\.)quora\.com$
 (^|^.*\.)qwant\.com$
 (^|^.*\.)raiffeisen\.(ru|ua)$
@@ -67,6 +65,7 @@
 (^|^.*\.)steampowered.com$
 (^|^.*\.)sys-adm\.in$
 (^|^.*\.)sysconf\.io$
+(^|^.*\.)swift.com$
 (^|^.*\.)t\.me$
 (^|^.*\.)telegram\.org$
 (^|^.*\.)tumblr\.com$
