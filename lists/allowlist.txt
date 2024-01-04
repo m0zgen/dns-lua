@@ -69,7 +69,7 @@
 (^|^.*\.)whatsapp\.com$
 (^|^.*\.)wikipedia\.org$
 (^|^.*\.)wildberries\.(eu|ru|by)$
-(^|^.*\.)yandex\.(ru|com|net)$
+(^|^.*\.)yandex\.(ru|com|net|kz)$
 (^|^.*\.)zoom.us$
 # NTPs
 [a-z]{1,}.root-servers\.net$
