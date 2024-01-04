@@ -78,3 +78,5 @@
 # Search results from Google (testing)
 (^|^[a-z]{2,}\.)googleadservices\.com$
 (^|^ad\.)doubleclick\.net$
+# Testing
+(^|^.*\.)1xbet\.(kz|com)$
