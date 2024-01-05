@@ -2,6 +2,7 @@
 (^|^.*\.)(linkedin|licdn.com)\.com$
 (^|^.*\.)(tiktok|tiktokv|ttwstatic|tiktokcdn|byteoversea)\.(com)$
 (^|^.*\.)accuweather.com$
+(^|^.*\.)aka.ms$
 (^|^.*\.)aliexpress\.com$
 (^|^.*\.)amazon\.(com|de)$
 (^|^.*\.)apple\.com$
