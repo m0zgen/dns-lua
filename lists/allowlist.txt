@@ -26,6 +26,8 @@
 (^|^.*\.)instagram\.com$
 (^|^.*\.)investing\.com$
 (^|^.*\.)ivi\.(ru|tv)$
+(^|^.*\.)kinopoisk\.ru$
+(^|^.*\.)lg\.com$
 (^|^.*\.)live\.com$
 (^|^.*\.)medium\.com$
 (^|^.*\.)microsoft\.com$
