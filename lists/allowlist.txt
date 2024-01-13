@@ -17,7 +17,6 @@
 (^|^.*\.)discord\.com$
 (^|^.*\.)duckduckgo\.com$
 (^|^.*\.)ebay\.com$
-(^|^.*\.)espn.com$
 (^|^.*\.)facebook\.(com|net)$
 (^|^.*\.)gmail\.com$
 (^|^.*\.)google\.(com|net|kz|de|lv)$
@@ -31,21 +30,17 @@
 (^|^.*\.)microsoft\.com$
 (^|^.*\.)microsoftonline\.com$
 (^|^.*\.)msn.com$
-(^|^.*\.)netdata\.cloud$
 (^|^.*\.)netflix\.com$
-(^|^.*\.)nintendo.com$
+(^|^.*\.)nessus\.org$
 (^|^.*\.)office\.com$
 (^|^.*\.)office365\.com$
 (^|^.*\.)openai\.com$
 (^|^.*\.)openbld\.net$
-(^|^.*\.)patreon.com$
 (^|^.*\.)pikabu\.ru$
 (^|^.*\.)pinterest\.com$
 (^|^.*\.)playstation.com$
-(^|^.*\.)powerdmarc\.com$
 (^|^.*\.)quora\.com$
 (^|^.*\.)qwant\.com$
-(^|^.*\.)raiffeisen\.(ru|ua)$
 (^|^.*\.)reddit\.com$
 (^|^.*\.)roblox.com$
 (^|^.*\.)samsung.com$
@@ -57,7 +52,6 @@
 (^|^.*\.)steampowered.com$
 (^|^.*\.)sys-adm\.in$
 (^|^.*\.)sysconf\.io$
-(^|^.*\.)swift.com$
 (^|^.*\.)t\.me$
 (^|^.*\.)telegram\.org$
 (^|^.*\.)tumblr\.com$
@@ -65,7 +59,6 @@
 (^|^.*\.)twitter\.com$
 (^|^.*\.)vdsina\.(ru|com)$
 (^|^.*\.)vk.com$
-(^|^.*\.)walmart.com$
 (^|^.*\.)weather\.com$
 (^|^.*\.)whatsapp\.com$
 (^|^.*\.)wikipedia\.org$
