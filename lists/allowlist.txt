@@ -2,7 +2,6 @@
 (^|^.*\.)(linkedin|licdn.com)\.com$
 (^|^.*\.)(tiktok|tiktokv|ttwstatic|tiktokcdn|byteoversea)\.(com)$
 (^|^.*\.)accuweather\.com$
-(^|^.*\.)aka\.ms$
 (^|^.*\.)aliexpress\.com$
 (^|^.*\.)amazon\.(com|de)$
 (^|^.*\.)apple\.com$
@@ -27,7 +26,6 @@
 (^|^.*\.)investing\.com$
 (^|^.*\.)ivi\.(ru|tv)$
 (^|^.*\.)kinopoisk\.ru$
-(^|^.*\.)lg\.com$
 (^|^.*\.)live\.com$
 (^|^.*\.)medium\.com$
 (^|^.*\.)microsoft\.com$
@@ -41,7 +39,6 @@
 (^|^.*\.)openbld\.net$
 (^|^.*\.)pikabu\.ru$
 (^|^.*\.)pinterest\.com$
-(^|^.*\.)playstation\.com$
 (^|^.*\.)quora\.com$
 (^|^.*\.)qwant\.com$
 (^|^.*\.)reddit\.com$
@@ -57,7 +54,6 @@
 (^|^.*\.)sysconf\.io$
 (^|^.*\.)t\.me$
 (^|^.*\.)telegram\.org$
-(^|^.*\.)tumblr\.com$
 (^|^.*\.)twitch\.tv$
 (^|^.*\.)twitter\.com$
 (^|^.*\.)vdsina\.(ru|com)$
@@ -77,3 +73,5 @@
 (^|^ad\.)doubleclick\.net$
 # Testing
 (^|^.*\.)1xbet\.(kz|com)$
+(^|^.*\.)phncdn\.com$
+(^|^.*\.)xhcdn\.com$
