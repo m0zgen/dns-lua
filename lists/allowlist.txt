@@ -4,6 +4,7 @@
 (^|^.*\.)accuweather\.com$
 (^|^.*\.)aliexpress\.com$
 (^|^.*\.)amazon\.(com|de)$
+(^|^.*\.)aka\.ms$
 (^|^.*\.)apple\.com$
 (^|^.*\.)avito\.(ru|st)$
 (^|^.*\.)azure\.com$
@@ -27,6 +28,7 @@
 (^|^.*\.)ivi\.(ru|tv)$
 (^|^.*\.)kinopoisk\.ru$
 (^|^.*\.)live\.com$
+(^|^.*\.)lg\.com$
 (^|^.*\.)medium\.com$
 (^|^.*\.)microsoft\.com$
 (^|^.*\.)microsoftonline\.com$
