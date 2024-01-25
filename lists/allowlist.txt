@@ -23,6 +23,7 @@
 (^|^.*\.)google\.(com|net|kz|de|lv)$
 (^|^.*\.)googleusercontent\.com$
 (^|^.*\.)gstatic\.com$
+(^|^.*\.)hcaptcha\.com$
 (^|^.*\.)instagram\.com$
 (^|^.*\.)investing\.com$
 (^|^.*\.)ivi\.(ru|tv)$
