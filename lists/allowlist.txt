@@ -44,6 +44,7 @@
 (^|^.*\.)reddit\.com$
 (^|^.*\.)roblox\.com$
 (^|^.*\.)samsung\.com$
+(^|^.*\.)sharepoint\.com$
 (^|^.*\.)snapchat\.com$
 (^|^.*\.)spotify\.com$
 (^|^.*\.)stackexchange\.com$
