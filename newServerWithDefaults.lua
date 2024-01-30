@@ -15,7 +15,6 @@ local defaultParams = {
     rise = 2
 }
 
--- Функция для создания нового сервера с заданными параметрами
 -- Create new server with default parameters
 function NS.newServerWithDefaults(address, name, pool)
     local serverParams = { address = address, name = name, pool = pool }
