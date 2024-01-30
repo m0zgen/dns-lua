@@ -30,3 +30,7 @@ function NS.newServerWithDefaults(address, name, pool)
 end
 
 return NS
+
+-- Usage
+-- local NS = dofile('/path/to/dns-lua/newServerWithDefaults.lua')
+-- NS.newServerWithDefaults('127.0.0.1', 'server-name', 'pool-name')
