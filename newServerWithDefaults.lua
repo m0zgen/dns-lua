@@ -3,6 +3,9 @@ local NS = {}
 -- Create server with default parameters
 local defaultParams = {
     sockets = 2,
+    order=1,
+    qps=100,
+    weight=100,
     reconnectOnUp=true,
     maxInFlight=10240,
     tcpFastOpen=true,
