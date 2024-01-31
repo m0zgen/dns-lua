@@ -5,6 +5,7 @@ local defaultParams = {
     sockets = 2,
     reconnectOnUp=true,
     maxInFlight=10240,
+    tcpFastOpen=true,
     checkClass = DNSClass.IN,
     checkName="openbld.net.",
     checkType = "A",
