@@ -14,7 +14,7 @@ local defaultParams = {
     checkType = "A",
     checkTimeout = 2000,
     maxCheckFailures = 3,
-    checkInterval = 2,
+    checkInterval = 6,
     mustResolve = false,
     rise = 2
 }
