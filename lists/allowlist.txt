@@ -42,6 +42,7 @@
 (^|^.*\.)openbld\.net$
 (^|^.*\.)pikabu\.ru$
 (^|^.*\.)pinterest\.com$
+(^|^.*\.)powerbi.com$
 (^|^.*\.)quora\.com$
 (^|^.*\.)qwant\.com$
 (^|^.*\.)reddit\.com$
