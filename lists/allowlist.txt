@@ -27,7 +27,9 @@
 (^|^.*\.)instagram\.com$
 (^|^.*\.)investing\.com$
 (^|^.*\.)ivi\.(ru|tv)$
+(^|^.*\.)halykbank\.kz$
 (^|^.*\.)kinopoisk\.ru$
+(^|^.*\.)kaspi\.kz$
 (^|^.*\.)live\.com$
 (^|^.*\.)lg\.com$
 (^|^.*\.)medium\.com$
