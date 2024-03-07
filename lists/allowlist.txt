@@ -5,6 +5,7 @@
 (^|^.*\.)aliexpress\.com$
 (^|^.*\.)amazon\.(com|de)$
 (^|^.*\.)aka\.ms$
+(^|^.*\.)akamai\.net$
 (^|^.*\.)apple\.com$
 (^|^.*\.)avito\.(ru|st)$
 (^|^.*\.)azure\.com$
@@ -31,6 +32,7 @@
 (^|^.*\.)halykbank\.kz$
 (^|^.*\.)kinopoisk\.ru$
 (^|^.*\.)kaspi\.kz$
+(^|^.*\.)cdn-kaspi\.kz$
 (^|^.*\.)live\.com$
 (^|^.*\.)lg\.com$
 (^|^.*\.)medium\.com$
@@ -71,6 +73,7 @@
 (^|^.*\.)wikipedia\.org$
 (^|^.*\.)wildberries\.(eu|ru|by)$
 (^|^.*\.)yandex\.(ru|com|net|st|kz)$
+(^|^.*\.)yandex-bank\.net$
 (^|^.*\.)zoom\.us$
 # NTPs
 [a-z]{1,}.root-servers\.net$
@@ -83,3 +86,4 @@
 (^|^.*\.)1xbet\.(kz|com)$
 (^|^.*\.)phncdn\.com$
 (^|^.*\.)xhcdn\.com$
+# 
