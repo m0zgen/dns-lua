@@ -1,6 +1,4 @@
 # OpenBLD.net DNS LUA pool forwarder
-(^|^.*\.)(linkedin|licdn.com)\.com$
-(^|^.*\.)(tiktok|tiktokv|ttwstatic|tiktokcdn|byteoversea)\.(com)$
 (^|^.*\.)accuweather\.com$
 (^|^.*\.)aliexpress\.com$
 (^|^.*\.)amazon\.(com|de)$
@@ -33,6 +31,7 @@
 (^|^.*\.)kinopoisk\.ru$
 (^|^.*\.)kaspi\.kz$
 (^|^.*\.)cdn-kaspi\.kz$
+(^|^.*\.)(linkedin|licdn)\.com$
 (^|^.*\.)live\.com$
 (^|^.*\.)lg\.com$
 (^|^.*\.)medium\.com$
@@ -64,6 +63,7 @@
 (^|^.*\.)sysconf\.io$
 (^|^.*\.)t\.me$
 (^|^.*\.)telegram\.org$
+(^|^.*\.)(tiktok|tiktokv|ttwstatic|tiktokcdn|byteoversea)\.(com)$
 (^|^.*\.)twitch\.tv$
 (^|^.*\.)twitter\.com$
 (^|^.*\.)vdsina\.(ru|com)$
