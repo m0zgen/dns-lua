@@ -8,15 +8,10 @@
 (^|^.*\.)avito\.(ru|st)$
 (^|^.*\.)azure\.com$
 (^|^.*\.)bing\.com$
-(^|^.*\.)binance\.com$
-(^|^.*\.)booking\.com$
-(^|^.*\.)canva\.com$
 (^|^.*\.)cdnvideo\.(ru)$
 (^|^.*\.)cloudflare\.com$
-(^|^.*\.)digitalocean\.com$
 (^|^.*\.)discord\.com$
 (^|^.*\.)duckduckgo\.com$
-(^|^.*\.)ebay\.com$
 (^|^.*\.)facebook\.(com|net)$
 (^|^.*\.)gmail\.com$
 (^|^.*\.)google\.(com|net|kz|de|lv)$
@@ -25,11 +20,11 @@
 (^|^.*\.)gstatic\.com$
 (^|^.*\.)hcaptcha\.com$
 (^|^.*\.)instagram\.com$
-(^|^.*\.)investing\.com$
 (^|^.*\.)ivi\.(ru|tv)$
 (^|^.*\.)halykbank\.kz$
-(^|^.*\.)kinopoisk\.ru$
 (^|^.*\.)kaspi\.kz$
+(^|^.*\.)kundelik\.kz$
+(^|^.*\.)kinopoisk\.ru$
 (^|^.*\.)cdn-kaspi\.kz$
 (^|^.*\.)(linkedin|licdn)\.com$
 (^|^.*\.)live\.com$
@@ -39,12 +34,10 @@
 (^|^.*\.)microsoftonline\.com$
 (^|^.*\.)msn\.com$
 (^|^.*\.)netflix\.com$
-(^|^.*\.)nessus\.org$
 (^|^.*\.)office\.com$
 (^|^.*\.)office365\.com$
 (^|^.*\.)openai\.com$
 (^|^.*\.)openbld\.net$
-(^|^.*\.)pikabu\.ru$
 (^|^.*\.)pinterest\.com$
 (^|^.*\.)powerbi.com$
 (^|^.*\.)quora\.com$
@@ -66,12 +59,9 @@
 (^|^.*\.)(tiktok|tiktokv|ttwstatic|tiktokcdn|byteoversea)\.(com)$
 (^|^.*\.)twitch\.tv$
 (^|^.*\.)twitter\.com$
-(^|^.*\.)vdsina\.(ru|com)$
-(^|^.*\.)vk\.com$
 (^|^.*\.)weather\.com$
 (^|^.*\.)whatsapp\.com$
 (^|^.*\.)wikipedia\.org$
-(^|^.*\.)wildberries\.(eu|ru|by)$
 (^|^.*\.)yandex\.(ru|com|net|st|kz)$
 (^|^.*\.)yandex-bank\.net$
 (^|^.*\.)zoom\.us$
@@ -82,8 +72,3 @@
 # Search results from Google (testing)
 (^|^[a-z]{2,}\.)googleadservices\.com$
 (^|^ad\.)doubleclick\.net$
-# Testing
-(^|^.*\.)1xbet\.(kz|com)$
-(^|^.*\.)phncdn\.com$
-(^|^.*\.)xhcdn\.com$
-# 
