@@ -12,6 +12,7 @@
 (^|^.*\.)cloudflare\.com$
 (^|^.*\.)discord\.com$
 (^|^.*\.)duckduckgo\.com$
+(^|^.*\.)eubank\.kz$
 (^|^.*\.)facebook\.(com|net)$
 (^|^.*\.)gmail\.com$
 (^|^.*\.)google\.(com|net|kz|de|lv)$
