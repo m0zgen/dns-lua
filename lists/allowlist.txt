@@ -17,6 +17,7 @@
 (^|^.*\.)discord\.com$
 (^|^.*\.)duckduckgo\.com$
 (^|^.*\.)ebay\.com$
+(^|^.*\.)eubank\.kz$
 (^|^.*\.)facebook\.(com|net)$
 (^|^.*\.)gmail\.com$
 (^|^.*\.)google\.(com|net|kz|de|lv)$
