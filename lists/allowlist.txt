@@ -5,6 +5,7 @@
 (^|^.*\.)aka\.ms$
 (^|^.*\.)akamai\.net$
 (^|^.*\.)apple\.com$
+(^|^.*\.)apple-dns\.net$
 (^|^.*\.)avito\.(ru|st)$
 (^|^.*\.)azure\.com$
 (^|^.*\.)bing\.com$
@@ -25,6 +26,7 @@
 (^|^.*\.)gov.(kz|by|ru|uz|kg|uk|cn|it)$
 (^|^.*\.)gstatic\.com$
 (^|^.*\.)hcaptcha\.com$
+(^|^.*\.)icloud\.com$
 (^|^.*\.)instagram\.com$
 (^|^.*\.)investing\.com$
 (^|^.*\.)ivi\.(ru|tv)$
