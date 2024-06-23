@@ -47,6 +47,7 @@
 (^|^.*\.)office365\.com$
 (^|^.*\.)openai\.com$
 (^|^.*\.)openbld\.net$
+(^|^.*\.)opera\.com$
 (^|^.*\.)pikabu\.ru$
 (^|^.*\.)pinterest\.com$
 (^|^.*\.)powerbi.com$
