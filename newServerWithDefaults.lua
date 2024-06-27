@@ -16,7 +16,8 @@ local defaultParams = {
     maxCheckFailures = 3,
     checkInterval = 2,
     mustResolve = false,
-    rise = 2
+    rise = 2,
+    useClientSubnet=true
 }
 
 -- Create new server with default parameters
