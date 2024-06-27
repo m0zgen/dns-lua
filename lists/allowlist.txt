@@ -78,6 +78,7 @@
 (^|^.*\.)wildberries\.(eu|ru|by)$
 (^|^.*\.)yandex\.(ru|com|net|st|kz)$
 (^|^.*\.)yandex-bank\.net$
+(^|^.*\.)youtu\.be$
 (^|^.*\.)zoom\.us$
 # NTPs
 [a-z]{1,}.root-servers\.net$
