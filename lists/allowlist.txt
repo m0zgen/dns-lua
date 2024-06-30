@@ -6,6 +6,8 @@
 (^|^.*\.)akamai\.net$
 (^|^.*\.)apple\.com$
 (^|^.*\.)apple-dns\.net$
+(^|^.*\.)apple-dns\.net$
+(^|^.*\.|^.*\-)apple.(map.fastly|com.akadns).net$
 (^|^.*\.)avito\.(ru|st)$
 (^|^.*\.)azure\.com$
 (^|^.*\.)bing\.com$
