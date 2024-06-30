@@ -72,6 +72,8 @@
 (^|^.*\.)(tiktok|tiktokv|ttwstatic|tiktokcdn|byteoversea)\.(com)$
 (^|^.*\.)twitch\.tv$
 (^|^.*\.)twitter\.com$
+(^|^.*\.)x\.com$
+(^|^.*\.)twimg\.com$
 (^|^.*\.)vdsina\.(ru|com)$
 (^|^.*\.)vk\.com$
 (^|^.*\.)weather\.com$
