@@ -80,7 +80,7 @@
 (^|^.*\.)whatsapp\.com$
 (^|^.*\.)wikipedia\.org$
 (^|^.*\.)wildberries\.(eu|ru|by)$
-(^|^.*\.)yandex\.(ru|com|net|st|kz)$
+(^|^.*\.)yandex\.(ru|com|net|st|md|kz|cloud)$
 (^|^.*\.)yandex-bank\.net$
 (^|^.*\.)youtu\.be$
 (^|^.*\.)zoom\.us$
@@ -95,4 +95,8 @@
 (^|^.*\.)1xbet\.(kz|com)$
 (^|^.*\.)phncdn\.com$
 (^|^.*\.)xhcdn\.com$
+# Yandex Cloud
+(^|^.*\.)webvisor\.(com|org)$
+(^|^.*\.)mc\.admetrica\.ru$
+(^|^.*\.)yandexmetrica\.com$
 # 
