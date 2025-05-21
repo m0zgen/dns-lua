@@ -49,6 +49,7 @@
 (?:^|\.)office\.com$
 (?:^|\.)office365\.com$
 (?:^|\.)openai\.com$
+(?:^|\.)chatgpt\.com$
 (?:^|\.)openbld\.net$
 (?:^|\.)opera\.com$
 (?:^|\.)pikabu\.ru$
