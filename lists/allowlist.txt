@@ -101,7 +101,6 @@
 (^|^ad\.)doubleclick\.net$
 (^|^[a-z]{2,}\.)googleadservices\.com$
 
-(?:^|\.)1xbet\.(kz|com)$
 (?:^|\.)phncdn\.com$
 (?:^|\.)xhcdn\.com$
 
