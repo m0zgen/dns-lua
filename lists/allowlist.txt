@@ -47,7 +47,7 @@
 (?:^|\.)netflix\.com$
 (?:^|\.)nessus\.org$
 (?:^|\.)office\.com$
-(?:^|\.)office365\.com$
+(?:^|\.)office365\.(?:com|net)\.?$
 (?:^|\.)openai\.com$
 (?:^|\.)chatgpt\.com$
 (?:^|\.)openbld\.net$
@@ -80,7 +80,6 @@
 (?:^|\.)twitter\.com$
 (?:^|\.)x\.com$
 (?:^|\.)twimg\.com$
-(?:^|\.)vdsina\.(ru|com)$
 (?:^|\.)vk\.com$
 (?:^|\.)weather\.com$
 (?:^|\.)whatsapp\.com$
