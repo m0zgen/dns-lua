@@ -60,8 +60,6 @@
 (?:^|\.)sharepoint\.com$
 (?:^|\.)snapchat\.com$
 (?:^|\.)spotify\.com$
-(?:^|\.)stackexchange\.com$
-(?:^|\.)stackoverflow\.com$
 (?:^|\.)steamcommunity\.com$
 (?:^|\.)steampowered\.com$
 (?:^|\.)sys-adm\.in$
