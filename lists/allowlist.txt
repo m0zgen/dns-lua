@@ -38,6 +38,7 @@
 (?:^|\.)licdn\.com$
 (?:^|\.)live\.com$
 (?:^|\.)lg\.com$
+(?:^|\.)lgtvcommon\.com$
 (?:^|\.)medium\.com$
 (?:^|\.)microsoft\.com$
 (?:^|\.)microsoftonline\.com$
